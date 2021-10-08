@@ -1,14 +1,7 @@
-body{
-    
-}
-h1{
-    color: rgb(236, 240, 18);
-    text-align:  ;
-}
 table, th, td {
-    border: 3px solid rgb(16, 47, 223);
+    border: 3px double rgb(16, 47, 223);
 }
-
 img{
   border: class="border border-danger";    
+  background-color:rgb(154, 198, 242);
 }
